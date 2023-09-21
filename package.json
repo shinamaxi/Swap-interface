@@ -10,7 +10,7 @@
     "@reduxjs/toolkit": "1.6.0",
     "@truffle/hdwallet-provider": "^1.4.2",
     "@types/jest": "26.0.23",
-    "@types/lodash": "^4.14.170"
+    "@types/lodash": "4.14.170"
     "@types/lodash.flatmap": "4.5.6",
     "@types/multicodec": "1.0.0",
     "@types/node": "14.17.4",
